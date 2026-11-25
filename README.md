@@ -1647,6 +1647,7 @@ API | Description | Auth | HTTPS | CORS |
 | [REST Countries](https://restcountries.com) | Get information about countries via a RESTful API | No | Yes | Yes |
 | [RoadGoat Cities](https://www.roadgoat.com/business/cities-api) | Cities content & photos API | `apiKey` | Yes | No |
 | [Rwanda Locations](https://rapidapi.com/victorkarangwa4/api/rwanda) | Rwanda Provences, Districts, Cities, Capital City, Sector, cells, villages and streets | No | Yes | Unknown |
+| [ScanMyPrivacy](https://scanmyprivacy.com/api-docs/) | Public IP (JSON/text) and IP geolocation, ASN, and VPN detection with zero IP logging | No | Yes | Yes |
 | [SearchPinCode](https://searchpincode.in/api) | Indian postal PIN code lookup, post office locator and district data | No | Yes | Yes |
 | [SLF](https://github.com/slftool/slftool.github.io/blob/master/API.md) | German city, country, river, database | No | Yes | Yes |
 | [SpotSense](https://spotsense.io/) | Add location based interactions to your mobile app | `apiKey` | Yes | Unknown |
@@ -2459,6 +2460,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Privacy.com](https://privacy.com/developer/docs) | Generate merchant-specific and one-time use credit card numbers that link back to your bank | `apiKey` | Yes | Unknown |
 | [Pulsedive](https://pulsedive.com/api/) | Scan, search and collect threat intelligence data in real-time | `apiKey` | Yes | Unknown |
 | [RealBots](https://aibots.kaderagha.com/api-docs) | Verify whether requests claiming to be GPTBot, ClaudeBot & other AI crawlers are real | `apiKey` | Yes | No |
+| [ScanMyPrivacy](https://scanmyprivacy.com) | Public IP (JSON/text) and IP geolocation, ASN, and VPN detection with zero IP logging | No | Yes | Yes |
 | [Sealed Rose](https://sealedrose.com/verify-video) | AI media forensics and synthetic content verification for video, audio, image, and text | `apiKey` | Yes | Yes |
 | [SecurityTrails](https://securitytrails.com/corp/apidocs) | Domain and IP related information such as current and historical WHOIS and DNS records | `apiKey` | Yes | Unknown |
 | [Shodan](https://developer.shodan.io/) | Search engine for Internet connected devices | `apiKey` | Yes | Unknown |
